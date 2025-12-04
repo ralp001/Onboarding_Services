@@ -1,0 +1,43 @@
+﻿// Domain/Enums/NigerianState.cs
+namespace Onboarding.Domain.Enums;
+
+public enum NigerianState
+{
+    Abia = 1,
+    Adamawa = 2,
+    AkwaIbom = 3,
+    Anambra = 4,
+    Bauchi = 5,
+    Bayelsa = 6,
+    Benue = 7,
+    Borno = 8,
+    CrossRiver = 9,
+    Delta = 10,
+    Ebonyi = 11,
+    Edo = 12,
+    Ekiti = 13,
+    Enugu = 14,
+    Gombe = 15,
+    Imo = 16,
+    Jigawa = 17,
+    Kaduna = 18,
+    Kano = 19,
+    Katsina = 20,
+    Kebbi = 21,
+    Kogi = 22,
+    Kwara = 23,
+    Lagos = 24,
+    Nasarawa = 25,
+    Niger = 26,
+    Ogun = 27,
+    Ondo = 28,
+    Osun = 29,
+    Oyo = 30,
+    Plateau = 31,
+    Rivers = 32,
+    Sokoto = 33,
+    Taraba = 34,
+    Yobe = 35,
+    Zamfara = 36,
+    FCT = 37
+}
